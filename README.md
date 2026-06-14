@@ -120,4 +120,3 @@ SMS-Spam-Detection-Using-Machine-Learning
 **Sujith Nadipalli**
 
 Aspiring Data Analyst | Python | SQL | Machine Learning
-
